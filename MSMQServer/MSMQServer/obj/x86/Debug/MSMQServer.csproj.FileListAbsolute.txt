@@ -1,0 +1,39 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.Cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\mscorlib.dll
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\ru\mscorlib.resources.dll
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\sortkey.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\sorttbls.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\big5.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\bopomofo.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\ksc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\prc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\prcp.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\xjis.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\normidna.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\normnfc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\normnfd.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\normnfkc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\normnfkd.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.AssemblyReference.cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.CoreCompileInputs.cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.CopyComplete
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb

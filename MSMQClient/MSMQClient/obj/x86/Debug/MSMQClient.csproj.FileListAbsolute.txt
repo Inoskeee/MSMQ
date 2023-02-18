@@ -1,0 +1,39 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQ.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.Cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\mscorlib.dll
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\ru\mscorlib.resources.dll
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\sortkey.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\sorttbls.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\big5.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\bopomofo.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\ksc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\prc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\prcp.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\xjis.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normidna.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfd.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfkc.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\bin\Debug\normnfkd.nlp
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.AssemblyReference.cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQ.frmMain.resources
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.CoreCompileInputs.cache
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.CopyComplete
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+E:\HSE\РВ\MSMQ\4_MSMQ\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
