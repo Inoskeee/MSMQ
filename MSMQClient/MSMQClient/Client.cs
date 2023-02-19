@@ -86,14 +86,24 @@ namespace MSMQ
                     messageBox.Invoke((MethodInvoker)delegate
                     {
                         if (msg != null)
-                            messageBox.Text += "\n >> " + msg.Label + " : " + msg.Body;     // выводим полученное сообщение на форму
+                        {
+                            if(string.IsNullOrEmpty(msg.Label.ToString()))
+                            {
+                                messageBox.Text += msg.Body;     // выводим полученное сообщение на форму
+                            }
+                            else
+                            {
+                                messageBox.Text += "\n >> " + msg.Label + " : " + msg.Body;     // выводим полученное сообщение на форму
+                            }
+                        }
+                            
                     });
                     Thread.Sleep(500);          // приостанавливаем работу потока перед тем, как приcтупить к обслуживанию очередного клиента
                 }
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Сервер перестал отвечать");
+                MessageBox.Show("Вы отключены от сервера");
             }
         }
 
@@ -121,8 +131,9 @@ namespace MSMQ
 
             if (receiveQueue != null)
             {
-                //MessageQueue.Delete(receiveQueue.Path);      // в случае необходимости удаляем очередь сообщений
+                MessageQueue.Delete(receiveQueue.Path);      // в случае необходимости удаляем очередь сообщений
             }
+
         }
     }
 }

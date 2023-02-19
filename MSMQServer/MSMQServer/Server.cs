@@ -155,7 +155,11 @@ namespace MSMQ
                 foreach(var item in queues)
                 {
                     string path = Dns.GetHostName() + $"\\private$\\{item}";
-                    MessageQueue.Delete(path);
+                    try
+                    {
+                        MessageQueue.Delete(path);
+                    }
+                    catch(Exception ex) { }
                 }
             }
         }
